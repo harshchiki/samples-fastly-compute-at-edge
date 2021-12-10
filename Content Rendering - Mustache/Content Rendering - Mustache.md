@@ -88,3 +88,7 @@ output
       San Diego Surf Spots - From the hippie beaches of Ocean Beach to the ritzy shores of La Jolla and everywhere in between. Discover the San Diego surf scene.
     </span>
 ```
+
+![Output Screenshot 1](./_resources/2021-12-10-19-14-00.png)
+
+![Output Screenshot 2](./_resources/2021-12-10-19-14-11.png)
